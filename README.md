@@ -2,9 +2,10 @@
 Video
 
 https://www.youtube.com/watch?v=vEtCoLFqMEA
-----
 
 VR visualization of showroom with ovens configuration for Amica S.A.
+
+-----
 
 Project presented during IFA 2019 fair
 
