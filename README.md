@@ -1,4 +1,4 @@
-# Amica-showroom-VR-2019
+# Amica-showroom-VR
 Video
 
 https://www.youtube.com/watch?v=vEtCoLFqMEA
